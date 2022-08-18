@@ -1,3 +1,3 @@
 # SiteRecette
 
-Webpage for recipes - static website
+Webpage for recipes - static responsive website
